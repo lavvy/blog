@@ -1,4 +1,4 @@
-baseurl = "https://blog.hypriot.com/"
+baseurl = "https://hookcell.net/"
 languageCode = "en-us"
 title = "Docker Pirates ARMed with explosive stuff"
 theme = "hyde"
